@@ -7,6 +7,11 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
+***
+
+* [AWS Cloud](aws-cloud/README.md)
+  * [Introduction](aws-cloud/introduction.md)
+
 ## Basics
 
 * [Editor](basics/editor.md)
