@@ -11,6 +11,7 @@
 
 * [AWS Cloud](aws-cloud/README.md)
   * [Introduction](aws-cloud/introduction.md)
+  * [Pre-requisites](aws-cloud/pre-requisites.md)
 
 ## Basics
 
